@@ -22,8 +22,10 @@
 		display: block;
 	}
 
-	.devicon-css3-plain-wordmark {
-		width: 100px;
+	.skill-icons i{
+		font-size: 150px;
+		color: #447973;
+		padding: 20px;
 	}
 
 	body {
