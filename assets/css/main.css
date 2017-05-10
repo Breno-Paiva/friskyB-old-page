@@ -23,9 +23,9 @@
 	}
 
 	.skill-icons i{
-		font-size: 150px;
+		font-size: 100px;
 		color: #447973;
-		padding: 20px;
+		padding: 30px;
 	}
 
 	body {
@@ -1716,11 +1716,13 @@
 			width: 48px;
 			height: 48px;
 			background: #f00;
+			border-radius: 6px;
 		}
 
 			.image.avatar48 img {
 				width: 48px;
 				height: 48px;
+				border-radius: 6px;
 			}
 
 		.image.fit {
