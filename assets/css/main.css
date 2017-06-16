@@ -22,6 +22,32 @@
 		display: block;
 	}
 
+	.project-links{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+	}
+
+	.project-links a{
+		width: 100%;
+		height: 100%;
+		border-bottom: none;
+	}
+	.project-links h3{
+		width: 100%;
+		height: 100%;
+		border-top: 2px solid #ddd;
+		padding: 7px 0;
+	}
+
+	.item p{
+		border-top: 2px solid #ddd;
+	}
+
+	.project-links h3:hover{
+		background: #eee;
+	}
+
 	.skill-icons i{
 		font-size: 100px;
 		color: #447973;
@@ -1950,7 +1976,7 @@
 		.item header {
 			background: #fff;
 			margin: 0;
-			padding: 1em 0 1em 0;
+			padding: 1em 0 0 0;
 			font-size: 0.8em;
 		}
 
